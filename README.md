@@ -1,2 +1,0 @@
-# weeabingo
-Created with CodeSandbox
