@@ -8,7 +8,7 @@ WeeaBingo has been developed with Vue.js and Codesandbox. Just fork a codesandbo
 
 ## Data
 
-You can replace `animes.json` data with anything with similar item formatting: `{ name: 'ITEM_NAME', image: 'IMAGE_URL' }` to generate different kind of bingos.
+You can replace `src/animes.json` data with anything with similar item formatting: `{ name: 'ITEM_NAME', image: 'IMAGE_URL' }` to generate different kind of bingos.
 
 ## Build
 
