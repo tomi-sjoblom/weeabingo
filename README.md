@@ -4,7 +4,7 @@ A simple Vue-based bingo row generator.
 
 ## Developing
 
-WeeaBingo has been developed with Vue.js and Codesandbox. Just fork a codesandbox to get started.
+WeeaBingo has been developed with Vue.js and Codesandbox. Just fork a codesandbox to get started. https://codesandbox.io/s/weeabingo-cq63o
 
 ## Data
 
