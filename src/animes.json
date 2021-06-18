@@ -328,10 +328,6 @@
     "img": "https://cdn.myanimelist.net/images/anime/13/75194.jpg"
   },
   {
-    "name": "Eden of the East",
-    "img": "https://cdn.myanimelist.net/images/anime/9/15033.jpg"
-  },
-  {
     "name": "Dragon Ball Z",
     "img": "https://cdn.myanimelist.net/images/anime/6/20936.jpg"
   },
@@ -342,10 +338,6 @@
   {
     "name": "Ojamajo Doremi",
     "img": "https://cdn.myanimelist.net/images/anime/1719/103416.jpg"
-  },
-  {
-    "name": "Alfred J Kwak",
-    "img": "https://cdn.myanimelist.net/images/anime/10/3879.jpg"
   },
   {
     "name": "A Certain Scientific Railgun",
@@ -360,10 +352,6 @@
     "img": "https://cdn.myanimelist.net/images/anime/12/75242.jpg"
   },
   {
-    "name": "Megazone 23",
-    "img": "https://cdn.myanimelist.net/images/anime/1153/94528.jpg"
-  },
-  {
     "name": "Kimagure Orange Road",
     "img": "https://cdn.myanimelist.net/images/manga/3/156252.jpg"
   },
@@ -374,6 +362,49 @@
   {
     "name": "Air",
     "img": "https://cdn.myanimelist.net/images/anime/8/22059.jpg"
+  },
+  {
+    "name": "Mawaru Penguindrum",
+    "img": "https://cdn.myanimelist.net/images/anime/5/30238.jpg"
+  },
+  {
+    "name": "Yumekui Merry",
+    "img": "https://cdn.myanimelist.net/images/anime/3/30869.jpg"
+  },
+  {
+    "name": "SKET Dance",
+    "img": "https://cdn.myanimelist.net/images/anime/9/73974.jpg"
+  },
+  {
+    "name": "Samurai Champloo",
+    "img": "https://cdn.myanimelist.net/images/anime/11/29134.jpg"
+  },
+  {
+    "name": "Puella Magi Madoka Magica",
+    "img": "https://cdn.myanimelist.net/images/anime/11/55225.jpg"
+  },
+  {
+    "name": "Mirai Nikki",
+    "img": "https://cdn.myanimelist.net/images/anime/13/33465.jpg"
+  },
+  {
+    "name": "Doraemon",
+    "img": "https://cdn.myanimelist.net/images/anime/3/3953.jpg"
+  },
+  {
+    "name": "Steins;Gate",
+    "img": "https://cdn.myanimelist.net/images/anime/5/73199.jpg"
+  },
+  {
+    "name": "RO-KYU-BU!",
+    "img": "https://cdn.myanimelist.net/images/anime/11/32643.jpg"
+  },
+  {
+    "name": "Fairy Tail",
+    "img": "https://cdn.myanimelist.net/images/anime/5/18179.jpg"
+  },
+  {
+    "name": "Fate/Zero",
+    "img": "https://cdn.myanimelist.net/images/anime/2/73249.jpg"
   }
-  
 ]
